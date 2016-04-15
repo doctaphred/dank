@@ -19,3 +19,12 @@
     - mad scientist
     - Futurama
     - Hubert J. Farnsworth
+
+- title: It's a Trap!
+  local: ackbar.mp3
+  meta:
+    - audio
+  labels:
+    - it's a trap
+    - Admiral Ackbar
+    - Star Wars
