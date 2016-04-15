@@ -1,0 +1,9 @@
+- title: Wrong Lever!
+  local: wrong-lever.gif
+  source: http://i.imgur.com/0vWyQ2f.gif?noredirect
+  meta:
+    - gif
+  labels:
+    - wrong
+    - lever
+    - Emperor's New Groove
